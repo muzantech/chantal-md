@@ -30,7 +30,7 @@
 
 ```bash
 # 1. Cloner le projet
-git clone https://github.com/votre-repo/chantal-md.git
+git clone https://github.com/muzantech/chantal-md.git
 cd chantal-md
 
 # 2. Installer les dépendances
@@ -185,3 +185,4 @@ Ce projet est sous licence GPL-3.0. Voir le fichier [LICENSE](LICENSE) pour plus
 <p align="center">
   <i>Powered by MUZAN SIGMA</i>
 </p>
+
